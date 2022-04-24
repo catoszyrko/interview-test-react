@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "category": "ARTICLE",
+        "title": "Cantimplora Meraki",
+        "subtitle": "",
+        "pictureURL": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/040/363/products/azul-21-22a82585ea9ae7340016189837708495-640-0.jpg"
+    },
+    {
+        "id": 1,
+        "category": "ARTICLE",
+        "title": "Cantimplora Meraki",
+        "subtitle": "",
+        "pictureURL": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/040/363/products/azul-21-22a82585ea9ae7340016189837708495-640-0.jpg",
+        "featured": "yes"
+    },
+    {
+        "id": 2,
+        "category": "ARTICLE",
+        "title": "Cantimplora Meraki",
+        "subtitle": "",
+        "pictureURL": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/040/363/products/azul-21-22a82585ea9ae7340016189837708495-640-0.jpg",
+        "featured": "yes"
+    
+    }
+]
